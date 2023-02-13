@@ -29,7 +29,7 @@ namespace ArraysAndLists
             foreach (var item in num)
                 
             {
-                i++;
+                
                 if (item % 2 == 0)
                 {
                     even.Add(item);
